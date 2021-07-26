@@ -23,5 +23,6 @@ npm install <packagename>@latest
 ```
 To upgrade all dependencies to their latest major versions
 ```javascript
-npx npm-check-updates -u and npm install
+npx npm-check-updates -u 
+npm install
 ```
